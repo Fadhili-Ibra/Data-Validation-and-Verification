@@ -1,4 +1,4 @@
-**Data Validation Techniques**
+1. **Data Validation Techniques**
 
 These techniques help ensure that the migrated data meets quality standards and requirements.
 
@@ -13,7 +13,7 @@ These techniques help ensure that the migrated data meets quality standards and 
 **Null/Blank Value Checks**: Verify that *fields that shouldn't contain null or blank values* are properly populated in the target system.
 
 
-**Data Verification Techniques**
+2. **Data Verification Techniques**
 
 These techniques help confirm that the migrated data works correctly in its new environment.
 
@@ -26,7 +26,7 @@ These techniques help confirm that the migrated data works correctly in its new 
 **Spot Checks**: *Randomly select a subset of records and manually compare* them between the *source and target systems for accuracy*.
 
 
-**Automation of Data Validation and Verification**
+3. **Automation of Data Validation and Verification**
 
 Automating these processes can save time and increase accuracy:
 

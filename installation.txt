@@ -1,0 +1,20 @@
+Prerequisites
+
+Install PySpark if you haven’t already:
+
+pip install pyspark
+
+
+Download the Microsoft SQL Server JDBC Driver:
+
+You can download the latest JDBC driver from https://go.microsoft.com/fwlink/?linkid=2283744.
+
+Extract sqljdbc_<version>_enu.zip
+
+Enter an extract directory when prompted; it is recommended that you unpack
+   this zip file in %ProgramFiles% with the default directory:
+
+	Microsoft JDBC DRIVER 12.8 for SQL Server
+
+
+Place this .jar file in a directory where your PySpark session can access it.
